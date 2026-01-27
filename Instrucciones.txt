@@ -1,0 +1,29 @@
+Gestión e Instalación de la Firma Corporativa
+
+1. Mantenimiento y Actualización (Solo Administradores)
+Para actualizar imágenes globalmente: Si necesitas cambiar una imagen (como el logo o un banner) y que el cambio se refleje automáticamente en todos los empleados, 
+debes sustituir el archivo original (ej. imagen_firma.png) por la nueva imagen.
+
+Importante: La nueva imagen debe tener exactamente el mismo nombre y extensión que la original para sobrescribirla correctamente. 
+Puede pasar que la imagen tarde en cambiar de 24 a 48 horas desde el cambio, por la caché de Google.
+
+Para modificar el enlace (URL): Accede a la carpeta link-firma, abre el archivo index.html que hay dentro y sustituye las tres URL existentes por la nueva dirección de destino.
+
+Nunca modifiques el archivo index.html base. Ese es el archivo plantilla que utilizan todos los empleados para generar su firma.
+
+2. Instalación de la Firma en Gmail (Instrucciones para el Empleado)
+Sigue estos pasos para configurar tu firma y no tener que volver a editarla:
+
+- Abre la siguiente dirección en tu navegador: https://content.tresipunt.com/firma/firmav2/index.html
+
+- Selecciona todo el contenido de la página presionando Ctrl + A, solo las imagenes.
+
+- Copia la selección presionando Ctrl + C.
+
+- Ve a tu correo Gmail y sigue la ruta: Configuración (rueda dentada) > Ver todos los ajustes.
+
+- Desplázate hacia abajo hasta el apartado Firma.
+
+- Haz clic en el cuadro de texto de la firma y pega el contenido presionando Ctrl + V.
+
+- Guarda los cambios al final de la página.
